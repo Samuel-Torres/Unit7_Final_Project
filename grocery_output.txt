@@ -1,0 +1,7 @@
+Grocery Shopping List
+====================
+pork shoulder - $38.00 x 1 = $38.00
+dumplings - $10.00 x 1 = $10.00
+mixed veggies bag - $9.00 x 2 = $18.00
+
+Total Cost: $66.00
